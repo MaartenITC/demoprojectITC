@@ -1,4 +1,4 @@
 # supercooldemoproject
 Demo repository
 Some chage shere and such.
-This is for me demo purposes because raesons ans auch.
+This is for my demo purposes because reasons and such.
